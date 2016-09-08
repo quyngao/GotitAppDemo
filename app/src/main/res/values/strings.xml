@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GotitAppDemo</string>
+
+    <string name="navigation_drawer_open">Live Feed</string>
+    <string name="navigation_drawer_close">Live Feed</string>
+    <string name="action_settings">Settings</string>
+    <string name="subtitle_splash">Snap a photo of \n your homwork problem \n for instant study help</string>
+</resources>
